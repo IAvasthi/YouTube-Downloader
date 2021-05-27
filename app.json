@@ -6,9 +6,9 @@
     "youtube",
     "downloader"
   ],
-  "success_url": "https://github.com/FayasNoushad",
-  "website": "https://fayas.cf",
-  "repository": "https://github.com/FayasNoushad/YouTube-Downloader",
+  "success_url": "https://github.com/IAvasthi",
+  "website": "https://ga.ishan.ga",
+  "repository": "https://github.com/IAvasthi/YouTube-Downloader",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
@@ -25,6 +25,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot"
+      "value": "1432469506 -1001370861728 923285055 743699734 -1001390455323 -1001457776064 743699734"
     },
     "TIME_LIMIT": {
       "description": "Set timeout for subprocess (In seconds)",
@@ -32,6 +33,7 @@
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
+      "value": "IshanUpdates"
       "required": false
     }
   },
