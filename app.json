@@ -24,7 +24,7 @@
       "description": "Get this value from https://my.telegram.org"
     },
     "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot"
+      "description": "allow only pre-defined users to use this bot",
       "value": "1432469506 -1001370861728 923285055 743699734 -1001390455323 -1001457776064 743699734"
     },
     "TIME_LIMIT": {
