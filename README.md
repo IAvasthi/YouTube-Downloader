@@ -6,7 +6,7 @@ A simple YouTube downloader bot with permenent thumbnail support
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
 Please fork this repository don't import code
 Made with Python3
-(C) @FayasNoushad
+(C) @IshanAvasthi
 Copyright permission under GNU General Public License v3.0
 License -> https://github.com/FayasNoushad/YouTube-Downloader/blob/main/LICENSE
 ```
@@ -15,14 +15,14 @@ License -> https://github.com/FayasNoushad/YouTube-Downloader/blob/main/LICENSE
 
 Deploy on Heroku
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/YouTube-Downloader">
+  <a href="https://heroku.com/deploy?template=https://github.com/IAvasthi/YouTube-Downloader">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
 
 Deploy in your vps
 ```
-git clone https://github.com/FayasNoushad/YouTube-Downloader
+git clone https://github.com/IAvasthi/YouTube-Downloader
 cd YouTube-Downloader
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -44,10 +44,10 @@ python3 bot.py
 
 ### Accounts
 
-* [Twitter](https://twitter.com/FayasNoushad)
-* [YouTube](https://youtube.com/channel/UCo3BrCslEn8ru34gTXyfVnQ)
-* [GitHub](https://github.com/FayasNoushad)
-* [Telegram](https://telegram.me/FayasNoushad)
+* [Twitter](https://twitter.com/)
+* [YouTube](https://youtube.com/)
+* [GitHub](https://github.com/IAvasthi)
+* [Telegram](https://telegram.me/IshanAvasthi)
 
 ### Credits
 
